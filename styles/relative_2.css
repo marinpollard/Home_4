@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.block {
+    position: relative;
+    width: 1200px;
+    height: 900px;
+    background-color: aquamarine;
+   
+}
+
+.figure {
+    position: relative;
+    padding: 50px;
+   
+    margin: 50px;
+    
+    
+}
+
+.figure1 {
+    position: relative;
+    
+    background-color: aliceblue;
+    width: 300px;
+    height: 300px;      
+    margin: 50px 20px; 
+
+}
+
+.figure2 {
+
+    position: relative;
+    top: 20px;
+    right: -700px;
+        
+    background-color: aliceblue;
+    width: 300px;
+    height: 300px;
+    margin: 30px 20px 20px 0;
+}
